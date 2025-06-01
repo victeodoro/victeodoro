@@ -10,7 +10,7 @@
 ~/ljós
 ├── about/
 │   ├── whoami.txt           → can't connect to the server at 'ljós'
-│   ├── home.txt             → page not found 404
+│   ├── home.txt             → no `home` found
 │   └── ljós.sh              → light burning hope
 │
 ├── skills/
@@ -28,7 +28,7 @@
 ├── thoughts/
 │   ├── silence.md           → where we all belong
 │   ├── glitch.md            → identity flaw
-│   └── journal.md           → keeping on keeping on
+│   └── journal.md           → [...]
 │
 └── README.md                → you're right here
 </pre>
@@ -37,6 +37,3 @@
 
 _ _projects as lost files in a home directory._  
 _ _exploit, use, destroy. that's what it's for._
-
- 
-> lonely wandering in absence.
