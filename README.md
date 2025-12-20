@@ -1,5 +1,5 @@
 <p align="center">
-  <em>ljós · lost and never found</em>
+  <em>Victor Teodoro</em>
 </p>
 
 
@@ -7,33 +7,23 @@
 
 
 <pre>
-~/ljós
-├── about/
-│   ├── whoami.txt           → can't connect to the server at 'ljós'
-│   ├── home.txt             → no `home` found
-│   └── ljós.sh              → light burning hope
-│
-├── skills/
-│    ├── offsec/
-│    |   ├── pentest.log      → untold truths lies within
-|    |   ├── write-ups.log    → unfolding secrets
-|    |   ├── articles.log     → documentation of caos
-|    |   ├── notes.log        → an endless track
-│    |   └── tools.md         → blade behind thought
-│    └── dev/ 
-│        ├── go.md            → engineered silence
-│        ├── python.md        → beauty in simplicity
-│        └── php.md           → patched legacy, still alive
-|
-├── thoughts/
-│   ├── silence.md           → where we all belong
-│   ├── glitch.md            → identity flaw
-│   └── journal.md           → [...]
-│
-└── README.md                → you're right here
+victor@victeodoro:~# ls /
+-rw-r--r--  1 victor victor   3421 Dec 18 09:12 about_me.txt
+drwxr-xr-x  2 victor victor   4096 Dec 17 22:01 src
+-rwxr-xr-x  1 victor victor    812 Dec 16 19:44 build.sh
+
+victor@victeodoro:~# cat about_me.txt
+I work with systems, security and things that break often.
+Most days are spent learning how things fail,
+and why they were built that way in the first place.
+
+These repositories are part of that process, 
+traces of curiosity and iteration. 
+
+If you wanna see more, visit my digital garden at victeodoro.com
 </pre>
 
 ---
 
-_ _projects as lost files in a home directory._  
-_ _exploit, use, destroy. that's what it's for._
+
+> _absence isn't sparse._  
