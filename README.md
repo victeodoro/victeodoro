@@ -20,7 +20,7 @@ and why they were built that way in the first place.
 These repositories are part of that process, 
 traces of curiosity and iteration. 
 
-If you wanna see more, visit my digital garden at victeodoro.com
+If you wanna see more, visit my digital garden at www.victeodoro.com
 </pre>
 
 ---
